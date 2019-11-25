@@ -210,6 +210,7 @@
 		<elasticsearch.version>6.5.4</elasticsearch.version>
 		<servlet.version>3.1.0</servlet.version>
 		<spring.version>5.2.1.RELEASE</spring.version>
+		<jmhVersion>1.21</jmhVersion>
 	</properties>
 
 	<dependencyManagement>
